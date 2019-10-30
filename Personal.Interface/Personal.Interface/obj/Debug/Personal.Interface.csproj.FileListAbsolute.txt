@@ -1,0 +1,13 @@
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\bin\Debug\Personal.Interface.exe.config
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\bin\Debug\Personal.Interface.exe
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\bin\Debug\Personal.Interface.pdb
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\obj\Debug\Personal.Interface.csprojAssemblyReference.cache
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\obj\Debug\Personal.Interface.Form1.resources
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\obj\Debug\Personal.Interface.Properties.Resources.resources
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\obj\Debug\Personal.Interface.csproj.GenerateResource.cache
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\obj\Debug\Personal.Interface.exe
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\obj\Debug\Personal.Interface.pdb
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\bin\Debug\Microsoft.mshtml.dll
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\bin\Debug\Spire.License.xml
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\bin\Debug\Spire.Pdf.xml
+C:\Repository\Developments\Support.Interface\src\Personal.Interface\Personal.Interface\obj\Debug\Personal.Interface.csproj.CopyComplete
